@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">LeaveApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="Signup_NewUser">Sign up</string>
+    <string name="Signin">Sign in</string>
+    <string name="ForgotPassword">Forgot Password ?</string>
+    <string name="Signup">Sign up</string>
+    <string name="error_message_email">Please enter Email ID</string>
+    <string name="error_message_name">Please enter Display Name</string>
+    <string name="error_message_password">Please enter Password</string>
+    <string name="error_message_not_Email">Invalid Email Address</string>
+    <string name="error_message_invalid_ID_Password">Invalid Email ID/Password</string>
+    <string name="error_message_companyname">Please enter Company Name</string>
+    <string name="error_message_projectname">Please enter Project Name</string>
+    <string name="error_message_manager_email">Please enter Manager Email ID</string>
+    <string name="error_message_annual_leave">Please enter number of anual leaves</string>
+    <string name="error_message_phonenumber">Please enter phonenumber</string>
+    <string name="error_email_exists">Email Id is already registered.</string>
+    <string name="error_password_dont_match">Password dont match</string>
+    <string name="error_valid_email_password">Account does not exists please Register first.</string>
+    <string name="change_manager">Change manager ?</string>
+    <string name="change_project">Change project ?</string>
+    <string name="change_password">Change password ?</string>
+    <string name="confirm_change">Confirm</string>
+    <string name="confirm_user_delete">User deleted successfully</string>
+    <string name="user_manager_updated">Manager Updated successfully</string>
+    <string name="sign_up_screen">Sign up</string>
+    <string name="home_screen">Home</string>
+    <string name="admin_screen">Admin</string>
+    <string name="add_manager_screen">Add Manager</string>
+    <string name="view_details_screen">View Details</string>
+    <string name="del_user_screen">Delete User</string>
+    <string name="approve_screen">Approve Leave</string>
+    <string name="apply_screen">Apply Leave</string>
+
+
+    <string name="background_colour">#16a085</string>
+    <string name="top_bar_colour">#002800</string>
+
+
+
+
+    <item name="visible" type="id"/>
+    <item name="masked" type="id"/>
+</resources>
